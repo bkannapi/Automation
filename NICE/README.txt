@@ -10,6 +10,7 @@
 -Automation framwork
 	.Selenium	
 	.Specflow feature with BDD
+	.NUnit
 
 -Automation technique used
 	'Page object model
