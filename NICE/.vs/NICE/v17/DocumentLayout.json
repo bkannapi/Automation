@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|c:\\users\\administrator\\documents\\automation\\nice\\videotest\\videoplayteststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|solutionrelative:videotest\\videoplayteststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|c:\\users\\administrator\\documents\\automation\\nice\\features\\videoplaytest.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|solutionrelative:features\\videoplaytest.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|c:\\users\\administrator\\documents\\automation\\nice\\stepdefinitions\\logindatadrivenstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|solutionrelative:stepdefinitions\\logindatadrivenstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|c:\\users\\administrator\\documents\\automation\\nice\\nice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|solutionrelative:nice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|c:\\users\\administrator\\documents\\automation\\nice\\features\\logindatadriven.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|solutionrelative:features\\logindatadriven.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|c:\\users\\administrator\\documents\\automation\\nice\\stepdefinitions\\nicehomepagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|solutionrelative:stepdefinitions\\nicehomepagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|c:\\users\\administrator\\documents\\automation\\nice\\features\\nicehomepage.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|solutionrelative:features\\nicehomepage.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|c:\\users\\administrator\\documents\\automation\\nice\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932850D-31B6-4CBE-A000-28EA22A98C8E}|NICE.csproj|solutionrelative:hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoplaytestStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Videotest\\VideoplaytestStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Videotest\\VideoplaytestStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Videotest\\VideoplaytestStepDefinitions.cs",
+              "RelativeToolTip": "Videotest\\VideoplaytestStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:21:03.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Videoplaytest.feature",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Features\\Videoplaytest.feature",
+              "RelativeDocumentMoniker": "Features\\Videoplaytest.feature",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Features\\Videoplaytest.feature",
+              "RelativeToolTip": "Features\\Videoplaytest.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-28T09:06:52.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDataDrivenStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\StepDefinitions\\LoginDataDrivenStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\LoginDataDrivenStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\StepDefinitions\\LoginDataDrivenStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\LoginDataDrivenStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:43:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDataDriven.feature",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Features\\LoginDataDriven.feature",
+              "RelativeDocumentMoniker": "Features\\LoginDataDriven.feature",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Features\\LoginDataDriven.feature",
+              "RelativeToolTip": "Features\\LoginDataDriven.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-27T21:18:52.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "Hooks\\Hooks.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:18:32.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NICE.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\NICE.csproj",
+              "RelativeDocumentMoniker": "NICE.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\NICE.csproj",
+              "RelativeToolTip": "NICE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T16:17:47.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NiceHomepageStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\StepDefinitions\\NiceHomepageStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\NiceHomepageStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\StepDefinitions\\NiceHomepageStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\NiceHomepageStepDefinitions.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:13:10.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NiceHomepage.feature",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Features\\NiceHomepage.feature",
+              "RelativeDocumentMoniker": "Features\\NiceHomepage.feature",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Automation\\NICE\\Features\\NiceHomepage.feature",
+              "RelativeToolTip": "Features\\NiceHomepage.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-23T16:21:39.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
